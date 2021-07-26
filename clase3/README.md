@@ -1,4 +1,4 @@
-# Imagenes y contenedores
+# **Resumen Clase 3**
 
 ### Imagen
 Una imagen es un sistema creado previamente en docker con una serie de instrucciones y comandos
